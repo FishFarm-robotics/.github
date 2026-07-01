@@ -1,4 +1,4 @@
-# FishFarm Robotics 🐟🤖
+# FishFarm Robotics
 
 **SRCP (Semantic Robotics Control Platform)** — 로봇 암 기반 3D 스캐닝을 통한 스마트 양식 객체 디지털 트윈 시스템
 
@@ -12,10 +12,10 @@
 
 | Member | Role | Module |
 |--------|------|--------|
-| 오현석 | SLAM & Robot Control | ① 3D point cloud 생성 및 SLAM 비교 분석 · ⑥ ROS 기반 myAGV 운용 |
-| 권다훈 | 3D Preprocessing & Segmentation | ② 포인트 클라우드 전처리 및 분할 (바닥면 검출 + PointSAM) |
-| 김건우 | Semantic Embedding & NLP | ③ ULIP 의미 정보 임베딩 · ④ 자연어 명령 해석 (Gemini) |
-| 백동민 | Path Planning & Map Conversion | ⑤ PRM 디지털 구현 (3D→2D 맵 변환 + Dijkstra 경로 탐색) · ② 바닥면 정렬(공동) |
+| 오현석 | SLAM & Robot Control | 1) 3D point cloud 생성 및 SLAM 비교 분석 · 6) ROS 기반 myAGV 운용 |
+| 권다훈(Leader) | 3D Preprocessing & Segmentation | 2) 포인트 클라우드 전처리 및 분할 (바닥면 검출 + PointSAM) · 6) ROS 기반 myAGV 운용 |
+| 김건우 | Semantic Embedding & NLP | 3) ULIP 의미 정보 임베딩 · 4) 자연어 명령 해석 (Gemini) |
+| 백동민 | Path Planning & Map Conversion | 5) PRM 디지털 구현 (3D→2D 맵 변환 + Dijkstra 경로 탐색) · 2) 바닥면 정렬(공동) |
 
 ## Repositories
 
