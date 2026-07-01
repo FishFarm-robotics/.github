@@ -1,4 +1,4 @@
-# FishFarm Robotics 🐟🤖
+# FishFarm Robotics 
 
 **SRCP (Semantic Robotics Control Platform)** — 로봇 암 기반 3D 스캐닝을 통한 스마트 양식 객체 디지털 트윈 시스템
 
